@@ -1,7 +1,7 @@
 import React from 'react';
 
 const SaaqLogo: React.FC = () => (
-  <img src="images/logo.png" alt="Société de l'assurance automobile du Québec" className="w-48" />
+  <img src="https://i.imgur.com/IJxiQFw.png" alt="Société de l'assurance automobile du Québec" className="w-48" />
 );
 
 const Header: React.FC = () => {

@@ -52,7 +52,7 @@ const Gallery: React.FC<GalleryProps> = ({ images, onImageClick, onLoadMore, has
     <section id="gallery" className="py-12">
       <div className="bg-[#343a40] text-white p-8 rounded-lg shadow-lg mb-12 flex flex-col items-center text-center">
         <div className="bg-white p-4 inline-block mb-6 rounded-md">
-          <img src="images/logo-clicstar.png" alt="ClicStar Logo" className="h-24" />
+          <img src="https://i.imgur.com/zpBizbf.png" alt="ClicStar Logo" className="h-24" />
         </div>
         <h2 className="text-4xl font-bold uppercase">La Collection « Clic »</h2>
         <p className="mt-2 text-gray-300">Vivez les bogues, les plantages, pis le pur génie.</p>
