@@ -5,28 +5,30 @@ export const IMAGES_PER_PAGE = 6;
 // Using placeholder images as the actual images are not available.
 // The dimensions are chosen to mimic the comic book/illustration style.
 export const ALL_GALLERY_IMAGES: GalleryImage[] = [
-  { id: 38, src: 'https://i.imgur.com/X2JsPqB.png', alt: 'Gallery image 38' },
-  { id: 37, src: 'https://i.imgur.com/dOiIitc.png', alt: 'Gallery image 37' },
-  { id: 36, src: 'https://i.imgur.com/VlAlCu7.png', alt: 'Gallery image 36' },
-
   { id: 35, src: 'https://i.imgur.com/lUQ3F21.png', alt: 'Gallery image 35' },
   { id: 34, src: 'https://i.imgur.com/rlF1vQY.png', alt: 'Gallery image 34' },
   { id: 41, src: 'https://i.imgur.com/uC6Cebu.png', alt: 'Gallery image 41' },
 
+  { id: 38, src: 'https://i.imgur.com/X2JsPqB.png', alt: 'Gallery image 38' },
+  { id: 37, src: 'https://i.imgur.com/dOiIitc.png', alt: 'Gallery image 37' },
+  { id: 36, src: 'https://i.imgur.com/VlAlCu7.png', alt: 'Gallery image 36' },
 
   { id: 22, src: 'https://i.imgur.com/90Jpi0Y.png', alt: 'Gallery image 22' },
   { id: 23, src: 'https://i.imgur.com/NgdPnaw.png', alt: 'Gallery image 23' },
   { id: 24, src: 'https://i.imgur.com/tfBeYuC.png', alt: 'Gallery image 24' },
 
   { id: 25, src: 'https://i.imgur.com/cVX7Sdb.png', alt: 'Gallery image 25' },
-  { id: 30, src: 'https://i.imgur.com/SeF2SRW.png', alt: 'Gallery image 30' },
+  // { id: 30, src: 'https://i.imgur.com/SeF2SRW.png', alt: 'Gallery image 30' },
   // { id: 31, src: 'https://i.imgur.com/XWauP3w.png', alt: 'Gallery image 31' },
+  { id: 46, src: 'https://i.imgur.com/btaJTqf.png', alt: 'Gallery image 46' },
   { id: 32, src: 'https://i.imgur.com/bkcUp8I.png', alt: 'Gallery image 32' },
+
   
   { id: 2, src: 'https://i.imgur.com/8HOsSZs.png', alt: 'Gallery image 2' },
   { id: 1, src: 'https://i.imgur.com/BvhY8lP.png', alt: 'Gallery image 1' },
   { id: 42, src: 'https://i.imgur.com/qcwXQXw.png', alt: 'Gallery image 42' },
-  { id: 46, src: 'https://i.imgur.com/btaJTqf.png', alt: 'Gallery image 46' },
+  
+  { id: 50, src: 'https://i.imgur.com/77VXciZ.png', alt: 'Éric Caire' },
   { id: 4, src: 'https://i.imgur.com/SA3Nfs2.png', alt: 'Gallery image 4' },
   { id: 6, src: 'https://i.imgur.com/aPbDDaS.png', alt: 'Gallery image 6' },
   { id: 7, src: 'https://i.imgur.com/EwbFi6M.png', alt: 'Gallery image 7' },
@@ -47,7 +49,6 @@ export const ALL_GALLERY_IMAGES: GalleryImage[] = [
   { id: 29, src: 'https://i.imgur.com/OtW6sj3.png', alt: 'Gallery image 29' },
   { id: 43, src: 'https://i.imgur.com/j6ACXPd.png', alt: 'Gallery image 43' },
   { id: 44, src: 'https://i.imgur.com/1eRCtxZ.png', alt: 'Gallery image 44' },
-  { id: 45, src: 'https://i.imgur.com/btaJTqf.png', alt: 'Gallery image 45' },
 
     { id: 26, src: 'https://i.imgur.com/S9GX8sC.png', alt: 'Gallery image 26' },
   { id: 27, src: 'https://i.imgur.com/YMwJUsg.png', alt: 'Gallery image 27' },
