@@ -29,6 +29,7 @@ export const ALL_GALLERY_IMAGES: GalleryImage[] = [
   { id: 42, src: 'https://i.imgur.com/qcwXQXw.png', alt: 'Gallery image 42' },
   
   { id: 50, src: 'https://i.imgur.com/77VXciZ.png', alt: 'Éric Caire' },
+  { id: 51, src: 'https://i.imgur.com/5U1CScO.png', alt: 'Sonia LeBel' },
   { id: 4, src: 'https://i.imgur.com/SA3Nfs2.png', alt: 'Gallery image 4' },
   { id: 6, src: 'https://i.imgur.com/aPbDDaS.png', alt: 'Gallery image 6' },
   { id: 7, src: 'https://i.imgur.com/EwbFi6M.png', alt: 'Gallery image 7' },
